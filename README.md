@@ -8,7 +8,7 @@ I'm a dedicated mathematics enthusiast currently pursuing my bachelor's degree a
       <a href="https://www.youtube.com/c/mahtabshahri?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/mahtabshahri?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mahtabshahri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mahtabshahri?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mahtabshahri?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
@@ -22,6 +22,7 @@ I'm a dedicated mathematics enthusiast currently pursuing my bachelor's degree a
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
+ 
 ### 💻 CURRENTLY LEARNING 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
@@ -55,7 +56,6 @@ I'm a dedicated mathematics enthusiast currently pursuing my bachelor's degree a
  <summary><h3>👩🏻‍💻 Mahtab's Coding Journey</h3></summary>
    As a budding programmer, I am constantly seeking opportunities to enhance my abilities in this field. With an insatiable curiosity and a determination to learn, I'm excited to dive deeper into the realm of coding, unraveling complex algorithms and crafting elegant solutions. Mathematics meets programming in my world! As a passionate mathematics student at Kharazmi University in Tehran, I'm on a mission to merge the power of numbers with the art of coding. With a thirst for knowledge, I've recently embarked on a programming journey, eager to unlock new dimensions of problem-solving. Armed with my mathematical prowess, I'm determined to create innovative solutions and algorithms that push the boundaries of what's possible. Join me as I weave the elegance of math into the fabric of programming, crafting a symphony of logic and creativity.🌱
 
-[linkdin]: https://linkedin.com/mahtabshahri
-[youtube]: https://youtube.com/mahtabshahri
+[youtube]: https://youtube.com/@mahtabshahri
 <!--
 
