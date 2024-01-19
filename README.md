@@ -5,8 +5,8 @@
 I'm a dedicated mathematics enthusiast currently pursuing my bachelor's degree at Kharazmi University in Tehran. While numbers have always fascinated me, I recently embarked on an exciting journey into the world of programming, eager to expand my skill set and explore new horizons. Alongside my academic pursuits, I also run a captivating YouTube channel "[MahtabShahri][youtube]" focused on mathematics, where I share intriguing videos exploring a wide range of mathematical problems. Join me as I unravel the beauty and complexity of numbers, and witness my continuous growth in both programming and mathematical exploration.
 
    <p align="left">
-      <a href="https://www.youtube.com/@mahtabshahri?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/@mahtabshahri?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMITb7MKVu-hFuwFEz88p4g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/mahtabshahri?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mahtabshahri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mahtabshahri?tab=repositories&sort=stargazers">
@@ -35,7 +35,7 @@ I'm a dedicated mathematics enthusiast currently pursuing my bachelor's degree a
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mahtabshahri?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@mahtabshahri?sub_confirmation=1)
 
 #
 
